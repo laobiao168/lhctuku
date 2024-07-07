@@ -17,14 +17,12 @@
 - 3.如果不会搭建，联系技术飞机 `https://cp567.cc/`
 
 ## 49图库在线演示
-https://49.sharecy.net/
+49图库源码模板演示https://49.cp567.cc/#/
+49图库另版演示：https://492.cp567.cc/#/
+118图库源码模板演示https://118.cp567.cc/#/
 
-前台账号自己注册吧
-
-后端https://49.sharecy.net/8888.php
-
+后端https://49.cp567.cc/8888.php
 用户名：test123
-
 密　码：test123
 
 提　示：演示站数据无法进行修改，请下载源码安装体验全部功能
@@ -32,7 +30,6 @@ https://49.sharecy.net/
 ####软件定制、技术合作联系飞机 【https://cp567.cc/】
 
 ####六合彩论坛搭建、仿站认准官网
-- https://www.sharecy.net/
 - https://tuku325.cc/
 - https://tuku325.top/
 
